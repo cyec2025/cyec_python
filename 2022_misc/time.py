@@ -1,0 +1,17 @@
+import datetime 
+today = datetime.date.today()
+#amount = input("Future/Past Days? : ")
+amount = 1
+yesterday = today - datetime.timedelta(days = int(amount))
+tomorrow = today + datetime.timedelta(days = int(amount))
+print(amount,'Days ago : ',yesterday)
+print('Today : ',today)
+print(amount,'Days in the future : ',tomorrow)
+print(today.strftime("tums! i love %As on %B %d! hmm but %Y is a bad year!! :("))
+tums = datetime.date(2023,11,25)
+print(tums)
+spingtime = datetime.datetime(2023,10,31)
+print(spingtime)
+print(15 // 3)
+print(15 / 3)
+print(20 % 3)
