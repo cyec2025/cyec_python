@@ -7,5 +7,5 @@ This is a python package with CYeC's code for classes as well as other games. It
 - [pre-2021](pre-2021) -- other games or math helpers that were made before 2021.
 - [geometry](geometry) -- geometry problems or renderings, most from 2021 or 2022.
 - [2021_misc](2021_misc) -- miscellaneous games or other code from 2021.
-- [CSIT175](csit175) assignments -- python class, spring 2022.
+- [python course](python_course) assignments -- python class, spring 2022.
 - [2022_misc](2022_misc) -- miscellaneous games or other code from 2022.
